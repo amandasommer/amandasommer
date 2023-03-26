@@ -19,8 +19,9 @@
 #end
 source "https://rubygems.org"
 gemspec
-gem "jekyll-theme-yat"
-gem "jekyll-spaceship"
+gem "minima"
+#gem "jekyll-theme-yat"
+#gem "jekyll-spaceship"
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 #platforms :mingw, :x64_mingw, :mswin, :jruby do
